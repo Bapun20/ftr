@@ -12,7 +12,11 @@ Healthcare Chatbot is a web application that integrates a basic chatbot powered 
 ![image](https://github.com/Bapun20/ftr/assets/128414400/469d50b7-5292-46f2-89c8-7e845966005d)
 
 
-https://github.com/Bapun20/ftr/assets/128414400/913e32cd-7f3a-4768-befe-071199e77306
+
+
+https://github.com/Bapun20/ftr/assets/128414400/dbe2fba7-0923-44ab-9165-58f80af4efe9
+
+
 
 
 You can find a live demo of the Healthcare Chatbot 
